@@ -1,0 +1,74 @@
+commit 92ece19b6ba1238e5f702f39ceeba13295003800
+Merge: 84ad87a ca00e01
+Author: justincdavis <davis.justin@mssm.org>
+Date:   Mon Feb 22 22:24:08 2021 -0700
+
+    Merge branch 'master' of https://github.com/justincdavis/C11-A
+
+commit 84ad87a4f7255eea31fecb1ecddc019f7ac87460
+Author: justincdavis <davis.justin@mssm.org>
+Date:   Mon Feb 22 22:24:06 2021 -0700
+
+    added a third cat and fixed the bug
+
+commit ca00e0119423f7a2757cf7ea7cd63d17dbd42c67
+Author: Andrew Depke <andrewdepke@gmail.com>
+Date:   Mon Feb 22 22:22:47 2021 -0700
+
+    Changed cat eye width
+
+commit 916d288c1f722067102778f04e6ab054d40af0ac
+Author: Andrew Depke <andrewdepke@gmail.com>
+Date:   Mon Feb 22 22:22:20 2021 -0700
+
+    Increased mouth size
+
+commit c8738de49dd8001791eed9213e0eed8d17fba374
+Merge: f576d7b 422034a
+Author: justincdavis <davis.justin@mssm.org>
+Date:   Mon Feb 22 22:21:37 2021 -0700
+
+    Merge branch 'master' of https://github.com/justincdavis/C11-A
+
+commit f576d7b44318ff07743860c2e8fde60260a81dec
+Author: justincdavis <davis.justin@mssm.org>
+Date:   Mon Feb 22 22:21:30 2021 -0700
+
+    Changed what the cats say
+
+commit 422034a650471c31f83a7641c8ee65cab76a2875
+Author: Andrew Depke <andrewdepke@gmail.com>
+Date:   Mon Feb 22 22:20:39 2021 -0700
+
+    Increased cat head dimensions by 5
+
+commit 590cb41e87b5404378c780a485a1ad40b1d00a60
+Merge: fa90a2f 2f5b158
+Author: justincdavis <davis.justin@mssm.org>
+Date:   Mon Feb 22 22:19:21 2021 -0700
+
+    Merge remote-tracking branch 'refs/remotes/origin/master'
+
+commit fa90a2f3a471a6966314ee7f45d53b666796a8b6
+Author: justincdavis <davis.justin@mssm.org>
+Date:   Mon Feb 22 22:18:06 2021 -0700
+
+    Increased head dimension
+
+commit 2f5b15801519fa9a1e7bb12b4118dc27f705ff65
+Author: Andrew Depke <andrewdepke@gmail.com>
+Date:   Mon Feb 22 22:18:00 2021 -0700
+
+    Added another cat
+
+commit 43c8dc05d76409ac0f010da7e400d9d815406dc1
+Author: Andrew Depke <andrewdepke@gmail.com>
+Date:   Mon Feb 22 22:16:23 2021 -0700
+
+    Increased frame size
+
+commit 5930d17c209a911e8933b1694fcbb39c50cac95f
+Author: justincdavis <davis.justin@mssm.org>
+Date:   Mon Feb 22 22:09:54 2021 -0700
+
+    First commit
